@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">xEdgeGestures</string>
+    <string name="fg_channel_id">edge_gestures</string>
+    <string name="fg_channel_name">Edge Gestures</string>
+    <string name="fg_notif_title">Edge gestures active</string>
+    <string name="fg_notif_text">Right edge → BACK on Display 4</string>
+    <string name="a11y_description">Keeps the edge gesture overlays alive while heavy games run. Reads no screen content.</string>
+</resources>
